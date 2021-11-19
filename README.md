@@ -12,3 +12,5 @@ https://wiffin.github.io/run-buddy/
 
 ## Contribution
 Made with ❤ by Ian Wiffin
+
+### ©2019 Run Buddy, Inc
